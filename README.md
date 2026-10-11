@@ -1,4 +1,4 @@
-![Rahul Chamoli | KaizenxRyu. AI engineering, AI security and product development.](assets/kaizenxryu-motion.svg)
+![Rahul Chamoli | KaizenxRyu. AI engineering, AI security and product development.](https://kaizenxryu.github.io/assets/kaizen-ryu-himalaya-v3.png)
 
 # Rahul Chamoli · Kaizen-Ryu
 
