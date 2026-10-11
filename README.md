@@ -1,4 +1,4 @@
-![Rahul Chamoli | Kaizen-Ryu. AI engineering, AI security and product development.](https://raw.githubusercontent.com/kaizenrc/kaizenrc/main/assets/kaizen-ryu-banner.png)
+![Rahul Chamoli | KaizenxRyu. AI engineering, AI security and product development.](assets/kaizenxryu-motion.svg)
 
 # Rahul Chamoli · Kaizen-Ryu
 
@@ -6,7 +6,7 @@
 
 I build practical AI assistants, APIs and automation with Microsoft Azure, Python and FastAPI. My focus is turning a business problem into a maintainable product, with clear architecture, useful documentation and security considered throughout.
 
-[Visit my portfolio](https://kaizenrc.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) · [Explore my GitHub](https://github.com/rchamoli)
+[Visit my portfolio](https://kaizenrc.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) · [Explore my GitHub](https://github.com/KaizenxRyu)
 
 ## What I work on
 
@@ -21,9 +21,9 @@ I build practical AI assistants, APIs and automation with Microsoft Azure, Pytho
 
 | Project | Repository focus |
 | :--- | :--- |
-| [Azure AI Chatbot](https://github.com/rchamoli/azure-ai-chatbot) | Conversational AI with Azure OpenAI and FastAPI |
-| [FastAPI Microservices Template](https://github.com/rchamoli/fastapi-microservices-template) | A starting point for Python API services |
-| [Azure Cost Optimizer](https://github.com/rchamoli/azure-cost-optimizer) | Azure cost analysis and optimization tooling |
+| [Azure AI Chatbot](https://github.com/KaizenxRyu/azure-ai-chatbot) | Conversational AI with Azure OpenAI and FastAPI |
+| [FastAPI Microservices Template](https://github.com/KaizenxRyu/fastapi-microservices-template) | A starting point for Python API services |
+| [Azure Cost Optimizer](https://github.com/KaizenxRyu/azure-cost-optimizer) | Azure cost analysis and optimization tooling |
 
 Explore the repositories for source and setup instructions. These links describe their focus, not independently measured performance or client outcomes.
 ## Building Kaizen-Ryu
