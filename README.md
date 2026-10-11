@@ -6,7 +6,7 @@
 
 I build practical AI assistants, APIs and automation with Microsoft Azure, Python and FastAPI. My focus is turning a business problem into a maintainable product, with clear architecture, useful documentation and security considered throughout.
 
-[Visit my portfolio](https://kaizenrc.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) · [Explore my GitHub](https://github.com/KaizenxRyu)
+[Visit my portfolio](https://kaizenxryu.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) · [Explore my GitHub](https://github.com/KaizenxRyu)
 
 ## What I work on
 
@@ -17,15 +17,12 @@ I build practical AI assistants, APIs and automation with Microsoft Azure, Pytho
 | **Product engineering** | Python APIs, FastAPI, structured delivery and maintainable code |
 | **AI security** | Building knowledge in secure AI applications, data protection and responsible tool access |
 
-## Public projects
+## Project experience
 
-| Project | Repository focus |
-| :--- | :--- |
-| [Azure AI Chatbot](https://github.com/KaizenxRyu/azure-ai-chatbot) | Conversational AI with Azure OpenAI and FastAPI |
-| [FastAPI Microservices Template](https://github.com/KaizenxRyu/fastapi-microservices-template) | A starting point for Python API services |
-| [Azure Cost Optimizer](https://github.com/KaizenxRyu/azure-cost-optimizer) | Azure cost analysis and optimization tooling |
+My project work spans identity automation, enterprise AI assistants, application packaging, virtual desktop operations, cloud cost reporting and data security.
 
-Explore the repositories for source and setup instructions. These links describe their focus, not independently measured performance or client outcomes.
+[Explore my portfolio](https://kaizenxryu.github.io/#projects) for anonymized project summaries. Company and customer source code stays private.
+
 ## Building Kaizen-Ryu
 
 Kaizen-Ryu is my ongoing exploration of a local AI workspace: one place to understand projects, work with coding agents, organize knowledge and review results.
@@ -48,6 +45,6 @@ Current interests include specialist local models, searchable project knowledge,
 
 Have a workflow that needs automation, an AI assistant to build, or an Azure application to improve?
 
-[Message me on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) with your business problem, current environment and expected outcome.
+[Email me](mailto:rahulchamoli.in%2Bhello@gmail.com) or [message me on LinkedIn](https://www.linkedin.com/in/rahulchamoli/) with your business problem, current environment and expected outcome.
 
 <sub>Kaizen: continuous improvement, one useful change at a time.</sub>
